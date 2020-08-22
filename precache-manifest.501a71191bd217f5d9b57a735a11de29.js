@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb99e11f63603559482577cde008f46e",
+    "revision": "19e7dc4ec580c28332d30eccee0dafb5",
     "url": "/index.html"
   },
   {
-    "revision": "9232a27fe9068b0d9ce7",
-    "url": "/static/css/main.18bc3a6e.chunk.css"
+    "revision": "8460a53fb1bea779ac0d",
+    "url": "/static/css/main.151a9156.chunk.css"
   },
   {
-    "revision": "e9e49726cebbca030eba",
-    "url": "/static/js/2.0738edbd.chunk.js"
+    "revision": "2fb7f31b53024fe561dd",
+    "url": "/static/js/2.676fd5b5.chunk.js"
   },
   {
     "revision": "bdcfdbef37b771299e3e4252a0d10375",
-    "url": "/static/js/2.0738edbd.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.676fd5b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9232a27fe9068b0d9ce7",
-    "url": "/static/js/main.21012338.chunk.js"
+    "revision": "8460a53fb1bea779ac0d",
+    "url": "/static/js/main.a0f5885a.chunk.js"
   },
   {
     "revision": "0934e5a0629121a12638",
     "url": "/static/js/runtime-main.c542aba9.js"
+  },
+  {
+    "revision": "da3590e1cad005ef3817c83e2b4749c4",
+    "url": "/static/media/Currículo Kaique Campos.da3590e1.pdf"
   },
   {
     "revision": "10a2f5bfd2d1d9b012f0d3cef6701eaf",
